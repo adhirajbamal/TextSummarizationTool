@@ -15,3 +15,5 @@ A Python tool for summarizing lengthy articles using Natural Language Processing
    ```bash
    git clone https://github.com/yourusername/text-summarization-tool.git
    cd text-summarization-tool
+2. Install dependencies:
+   pip install -r requirements.txt
